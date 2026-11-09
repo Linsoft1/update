@@ -1,0 +1,11 @@
+linsoft-update=1
+version=0.9.1
+pak=install-0.9.1.pak.gz
+size=58425301
+sha256=ee9ac79bf1c8f1d37bc60497cf1e7aff74fcd50559131d9c7080d9e7c3425432
+notes=Sieťové priečinky (SMB) – zdieľané priečinky z Windows a NAS priamo v Súboroch.
+notes=Telefóny cez USB (MTP) – fotky a súbory z mobilu.
+notes=Zápis na disky NTFS – kopírovanie, presun, premenovanie a mazanie.
+notes=Súbory: karty, Späť a Znova, kôš, ZIP, premenovanie F2 bez prípony.
+notes=Prehliadač: rýchlejšie načítanie a lepšie zobrazenie stránok.
+notes=Opravy chýb a vyššia stabilita.
