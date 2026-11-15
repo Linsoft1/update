@@ -1,8 +1,8 @@
 linsoft-update=2
 version=0.9.5
 channel=stable
-date=2026-11-15T03:52:27Z
-expires=2026-11-29
+date=2026-11-15T11:00:05Z
+expires=2027-01-14
 kind=update
 files=0.9.5/
 notes=Médiá 3.0: video MP4 (H.264) a hudba M4A/AAC, FLAC a OGG, obaly albumov, pokračovanie od miesta, titulky, ekvalizér a mini prehrávač
