@@ -1,4 +1,8 @@
 linsoft-apps=1
-date=2026-11-15T07:39:40Z
+date=2026-11-15T13:55:40Z
 expires=2027-01-14
 app=sk.linsoft.browser 2.0.36 3053249 01bd55c4d0ecc098aa7e8692874926298ec69c112ab2aaafedcb7b61f5c21480 Linsoft-Browser.lsa
+app=sk.linsoft.chat 1.0.0 359113 cb5b9b821d053b4d890cba1f15e96fa1205e163d1dcbeaebdcc98df1368fbb09 Linsoft-Chat.lsa
+app=sk.linsoft.posta 1.0.0 638116 bd19886095f90e30cc15e57f28bd3fa83fc16b7628df3116231fd12e8143d1dc Linsoft-Posta.lsa
+app=sk.linsoft.pdf 1.0.0 1338132 98873cab0a7bae341564b9845eeb5e931994be03109f39376e10de9d64e2fc54 Linsoft-PDF.lsa
+app=sk.linsoft.code 1.0.0 542711 72bb5080456e961d966014ac301a56298feec7e9ef42a3dbc996084d09db6d77 Linsoft-Code.lsa
