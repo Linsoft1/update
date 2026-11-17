@@ -1,6 +1,6 @@
 linsoft-apps=1
-date=2026-11-16T18:12:50Z
-expires=2027-01-15
+date=2026-11-17T11:39:39Z
+expires=2027-01-16
 app=sk.linsoft.browser 2.0.37 3072159 81b6b980492315bb52fe22ef7da92ef8bbc521889d789b76640e227d2dd6661f Linsoft-Browser.lsa
 info=sk.linsoft.browser name Linsoft Browser
 info=sk.linsoft.browser publisher Linsoft
